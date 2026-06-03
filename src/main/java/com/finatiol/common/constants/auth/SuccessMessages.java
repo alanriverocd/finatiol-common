@@ -1,0 +1,12 @@
+package com.finatiol.common.constants.auth;
+
+public class SuccessMessages {
+
+    private SuccessMessages() {
+    }
+
+    public static final String LOGIN_EXITOSO       = "Login exitoso";
+    public static final String TOKEN_RENOVADO      = "Token renovado correctamente";
+    public static final String LOGOUT_EXITOSO      = "Logout exitoso";
+    public static final String PASSWORD_ENCRIPTADO = "Password encriptado correctamente";
+}
